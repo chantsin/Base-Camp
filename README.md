@@ -15,6 +15,8 @@ This repository contains work done during my undergraduate studies, these may in
     * Cross Correlation and Spectral Analysis Problem
 * PHY484 General Relativity II
     * Understanding Cosmological History 
+* Other
+    * Monte Carlo Method
 
 ## Project Descriptions
 
